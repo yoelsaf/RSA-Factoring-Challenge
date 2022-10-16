@@ -1,5 +1,5 @@
-RSA Factoring Challenge
+# RSA-Factoring-Challenge
 
-0. Factorize all the things!
+./factors <file>
 
-1. RSA Factoring Challenge
+./rsa <file>
