@@ -1,2 +1,5 @@
-#RSA-Factoring-Challenge.git
-#This edit may cause something wrong, don't trust me
+RSA Factoring Challenge
+
+0. Factorize all the things!
+
+1. RSA Factoring Challenge
